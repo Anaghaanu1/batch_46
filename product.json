@@ -1,0 +1,282 @@
+[
+    {
+        "id":1,
+        "category_id":1,
+        "category":"mobiles",
+        "product_name":"iphone11",
+        "price":46999,
+        "rating":4.6,
+        "size":"large",
+        "image":"https://i.ibb.co/7CDsQ3g/OIP.jpg",
+        "color":"white",
+        "brand":"apple"
+
+    },
+    {
+        "id":2,
+        "category_id":1,
+        "category":"mobiles",
+        "product_name":"realme 9 5G ",
+        "price":15999,
+        "rating":4.5,
+        "size":"large",
+        "image":"https://i.ibb.co/tB7D1Vv/realme-9-1-768x402.jpg",
+        "color":"meteor black",
+        "brand":"realme"
+
+    },
+    {
+        "id":3,
+        "category_id":1,
+        "category":"mobiles",
+        "product_name":"samsung galaxy F13 ",
+        "price":11999,
+        "rating":4.5,
+        "size":"large",
+        "image":"https://i.ibb.co/xFdgGmN/samayam-tamil.jpg",
+        "color":"nightsky green",
+        "brand":"samsung"
+
+    },
+    {
+        "id":4,
+        "category_id":2,
+        "category":"fashion",
+        "product_name":"Self Design Men Polo Neck Green T-Shirt",
+        "price":1341,
+        "fit":"normal",
+        "ideal for":"men",
+        "fabric":"polycotton",
+        "size":"large",
+        "image":"https://i.ibb.co/bPMhGfw/m-222055520-1-monte-carlo-original-imagehphxzhc6gzk.jpg" ,
+        "color":" green",
+        "brand":"monte carlo"
+
+    },
+    {
+        "id":5,
+        "category_id":2,
+        "category":"fashion",
+        "product_name":"Women Printed Viscose Rayon Anarkali Kurta",
+        "price":570,
+        "occasion":"casual",
+        "pattern":"printed",
+        "ideal for":"women",
+        "fabric":"viscose rayan",
+        "fabric care":"hand wash",
+        "image":"https://i.ibb.co/qxSvrFg/xxl-11434892-aurelia-original-imagydedpsbgge7b.jpg" ,
+        "color":"orange",
+        "brand":"Aurelia"
+
+    },
+    {
+        "id":6,
+        "category_id":2,
+        "category":"fashion",
+        "product_name":"Men Blue Sports Sandal",
+        "price":736,
+        "occasion":"sports sandal",
+        "ideal for":"men",
+        "image":"https://i.ibb.co/zn1bRYk/8-sp-453-blue-gy-8-sparx-blue-original-imagfyx8gayzxqxx.jpg" ,
+        "color":"blue",
+        "brand":"SPARX"
+
+    },
+    {
+        "id":7,
+        "category_id":3,
+        "category":"electronics",
+        "product_name":"realme Buds Wireless 2 Neo with Type-C Fast Charge & Bass Boost+ Bluetooth Headset  (Blue, In the Ear)",
+        "price":1499,
+        "Connectivity":"Bluetooth",
+        "image":"https://i.ibb.co/mt7x2q6/rma2011-realme-original-imag68fe7xdnavuh.jpg"  ,
+        "color":"blue",
+        "brand":"realme"
+
+    },
+    {
+        "id":8,
+        "category_id":3,
+        "category":"electronics",
+        "product_name":"Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens ",
+        "price":31499,
+        "type":"DSLR",
+        "warranty":2,
+        "service type":"carry in",
+        "image":"https://i.ibb.co/KqYmzvW/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpg"   ,
+        "color":"black",
+        "brand":"canon"
+
+    },
+    {
+        "id":9,
+        "category_id":3,
+        "category":"electronics",
+        "product_name":"Noise ColorFit Qube SpO2 Smartwatch  ",
+        "price":1999,
+        "Usage":"Fitness & Outdoor",
+        "ideal for":"men & women",
+        "warranty":1,
+       "touch screen":"yes",
+        "image":"https://i.ibb.co/YtBsvVz/android-ios-wrb-sw-colorfitqubeoxy-std-rgld-pnk-noise-no-original-imag79y4dphr2wrj.jpg"    ,
+        "color":"Beige Gold",
+        "brand":"ColorFit Qube SpO2"
+
+    },
+    {
+        "id":10,
+        "category_id":4,
+        "category":"beauty_toy",
+        "product_name":"DOVE Gentle Exfoliating Beads Body Wash For Softer Smoother Skin  (800 ml) ",
+        "price":363,
+        "suitable for":"all skin types",
+        "ideal for":"women",
+        "type":"body wash",
+        "maximum shelf life":"2 year",
+        "fragrance":"milk",
+        "image":"https://i.ibb.co/QjvRvjd/original-imagb7dagtkkxg6n.jpg"    ,
+        "form":"liquid",
+        "brand":"dove"
+
+    },
+    {
+        "id":11,
+        "category_id":4,
+        "category":"beauty_toy",
+        "product_name":"Lakmé Eyeconic Kajal Twin Pack  ",
+        "type":"kajal",
+        "price":255,
+        "suitable for":"all skin types",
+        "ideal for":"women",
+        "waterproof":"yes",
+        "maximumlife":"22hours smudge proof",
+        "image":"https://i.ibb.co/9sMTXNM/0-7-eyeconic-kajal-twin-pack-lakme-original-imagy3qkejttany5.jpg"    ,
+        "form":"pencil",
+        "brand":"lakme"
+
+    },
+    {
+        "id":12,
+        "category_id":4,
+        "category":"beauty_toy",
+        "product_name":"MAYBELLINE NEW YORK Volume Express Colossal Masacara, Waterproof 10 ml  (black)",
+        "type":"masacara",
+        "price":242,
+        "suitable for":"all skin types",
+        "ideal for":"women",
+        "waterproof":"yes",
+        "maximum life":"36 months",
+        "image":"https://i.ibb.co/BjX1Ffv/10-new-york-volume-express-colossal-masacara-waterproof-original-imafsnjhp6kz57pj.jpg"   ,
+        "color":"yellow",
+        "shade":"black",
+        "brand":"maybelline"
+
+    },
+    {
+        "id":13,
+        "category_id":5,
+        "category":"appliance",
+        "product_name":"Whirlpool 325 L Frost Free Double Door Bottom Mount 3 Star Refrigerator  (Omega Steel, IFPRO BM INV 340 ELT+ OMEGA STEEL",
+        "type":"Double Door Bottom Mount fridge",
+        "price":41740,
+        "rating":3,
+         "body material":"steel",
+        "image":"https://i.ibb.co/2SP4GBM/ifpro-bm-inv-340-elt-omega-steel-2s-n-2-whirlpool-original-imafub2zgqaepwgp.jpg"  ,
+        "color":"silver",
+        "brand":"whirlpool"
+
+    },
+    {
+        "id":14,
+        "category_id":5,
+        "category":"appliance",
+        "product_name":"Hafele Glamline Pro, 800W Power Mixer with Mixing Attachments, Red Glamline Series 800 Mixer Grinder (1 Jar, Red)",
+        "type":"mixer grinder",
+        "price":13032,
+        "rating":4.3,
+         "warranty":"2 years",
+        "image":"https://i.ibb.co/T1vBKGx/glamline-pro-800w-power-mixer-with-mixing-attachments-red-hafele-original-imag6gbgnzzkfhqg.jpg",
+        "color":"red",
+        "brand":"Hafele Glamline"
+
+    },
+    {
+        "id":15,
+        "category_id":5,
+        "category":"appliance",
+        "product_name":"Hafele Queen - Electric Stainless Steel Kettle Electric Kettle  (1.6 L, White)",
+        "type":" Electric Kettle",
+        "price":5087,
+        "rating":4,
+         "warranty":"2 years",
+         "Suitable For": ["Water", "Tea" , "Soups"],
+        "image":"https://i.ibb.co/7VWfwhJ/hafele-queen-queen-electric-stainless-steel-kettle-original-imafmfkyk9dcnk8g.jpg",
+        "color":"whie",
+        "brand":"Hafele Queen"
+
+    },
+    {
+        "id":16,
+        "category_id":6,
+        "category":"grocery",
+        "product_name":"Maggi Masala Instant Noodles Vegetarian  (420 g)",
+        "type":" noodle",
+        "price":82,
+        "rating":4.4,
+        "image":"https://i.ibb.co/T88zvDV/original-imagdbuf8rh7zzmy.jpg",
+         "brand":"maggi"
+
+    },
+    {
+        "id":17,
+        "category_id":6,
+        "category":"grocery",
+        "product_name":"Cadbury Gems Crackles",
+        "type":"milk chocolate",
+        "price":20,
+        "rating":4.2,
+        "image":"https://i.ibb.co/PFC9gDH/original-imaga2ybgpdsnuxq.jpg",
+        "brand":"cadbury"
+
+    },
+    {
+        "id":18,
+        "category_id":6,
+        "category":"grocery",
+        "product_name":"Flipkart SmartBuy Induction Bottom Tawa 28 cm diameter  (Aluminium, Non-stick, Induction Bottom)",
+        "type":"tawa",
+        "price":417,
+        "rating":4.1,
+        "image":"https://i.ibb.co/gSH7xST/original-imag8tr2pk9czcbj.jpg",
+        "brand":"Flipkart SmartBuy"
+
+    },
+    {
+        "id":19,
+        "category_id":7,
+        "category":"home",
+        "product_name":"Sofame Ritz Double Solid Wood, Metal Sofa Bed",
+        "type":" Sofa Bed",
+        "price":31490,
+        "rating":4.3,
+        "image":"https://i.ibb.co/s6gP5Y2/double-beige-jute-ritz-sofa-bed-beige-sofame-beige-original-imafpzzehz3kvayb.jpg",
+        "color":"beige",
+        "brand":"Sofame"
+
+    },
+    {
+        "id":20,
+        "category_id":7,
+        "category":"home",
+        "product_name":"Flipkart SmartBuy Wall Stickers Wallpaper Pink Flowers Design for Bedroom Decoration Self Adhesive Extra Large Self Adhesive Sticker ",
+        "type":" wall sticker",
+        "price":218,
+        "rating":4.2,
+        "theme":"Floral & Botanical",
+        "image":"https://i.ibb.co/8gLZZqD/wall-stickers-wallpaper-pink-flowers-design-for-bedroom-original-imafknv4uah8yg45.jpg",
+        "color":["pink","purple","multicolor"],
+        "brand":"Flipkart SmartBuy"
+
+    },
+
+]

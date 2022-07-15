@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=PT+Sans+Narrow&family=Roboto+Mono:wght@100&display=swap');
+
 body{
     margin:auto;
     background-color:rgb(128 128 128/0.2);
@@ -79,7 +81,7 @@ body{
 #deal_of_day_part2{
    float:left;
     width:27%;
-    height:278px;
+    height:309px;
     /* border:1px solid green; */
     margin-left:1%;
     margin-top:1%;
@@ -88,6 +90,40 @@ body{
     
 }
 
+/* flipkart details */
+
+#flip_detail{
+    width:100%;
+    background-color:white;
+    margin-top: 1%;
+   
+}
+.flip_detail_margin{
+    margin-left:2%;
+    margin-right:2%;
+    /* font-family: 'Roboto Mono', monospace; */
+    text-align: justify;
+    padding-top: 2%;
+}
+.flip_detail_margin>h1,h2{
+    color:grey;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:large;
+    font-weight: bold;
+}
+.flip_detail_margin>p,span{
+     
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:small;
+    color:rgb(128 128 128/0.9);
+   /* font-weight: bold; */
+}
+b{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:grey;   
+}
+/* flip details end */
 
 /* footer */
 #footer_black{
@@ -99,4 +135,10 @@ footer>hr{
 }
 a{
     text-decoration:none;
+}
+.anchor_blue{
+    color:black;
+}
+.anchor_blue:hover{
+    color:blue;
 }

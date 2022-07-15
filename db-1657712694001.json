@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "mobiles"
+    },
+    {
+      "id": 2,
+      "category": "fashion"
+    },
+    {
+      "id": 3,
+      "category": "electronics"
+    },
+    {
+      "id": 4,
+      "category": "beauty_toy"
+    },
+    {
+      "id": 5,
+      "category": "appliance"
+    },
+    {
+      "id": 6,
+      "category": "grocery"
+    },
+    {
+      "id": 7,
+      "category": "home"
+    }
+  ]
+}
